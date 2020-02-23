@@ -1,1 +1,1 @@
-web: sh ./subweb.sh
+web: sh ./sub.sh
